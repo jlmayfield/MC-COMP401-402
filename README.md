@@ -1,1 +1,1 @@
-Files for the Monmouth College computer science major capstone project, or COMP401 and COMP402. Current students should be using  [https://jlmayfield.github.io/MC-COMP401-402/](https://jlmayfield.github.io/MC-COMP401-402/) and not pulling files directly from here. 
+Files for the Monmouth College computer science major capstone project, or COMP401 and COMP402. The actual course website can be found at   [https://jlmayfield.github.io/teaching/COMP401-402/](https://jlmayfield.github.io/teaching/COMP401-402/) 
