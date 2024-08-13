@@ -1,6 +1,20 @@
+## Core latex/pdflatex auxiliary files:
 *.aux
+*.lof
 *.log
-*.out
-*.synctex.gz
+*.lot
 *.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.synctex.gz
 *.fdb_latexmk
+
+## Intermediate documents:
+*.dvi
+*.xdv
+*-converted-to.*
